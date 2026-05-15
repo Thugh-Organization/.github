@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="logo.png" width="420" alt="Thugh Organization Logo" />
+<!-- Responsive logo: minimum 220px, preferred 40% of container width, maximum 420px -->
+<img
+  src="logo.png"
+  alt="Thugh Organization Logo"
+  width="100%"
+  style="width: clamp(220px, 40%, 420px); height: auto;"
+ />
 
 # ⚡ THUGH ORGANIZATION
 
